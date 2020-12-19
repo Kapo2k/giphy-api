@@ -1,0 +1,14 @@
+.gifs {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  width: 1000px;
+  margin: 0 auto;
+
+}
+.gif img {
+  max-width: 200px;
+  padding: ;
+  border: 15px solid  #f0f0f5;
+  border-radius: 8px;
+  margin: 1em 1em;
+}
